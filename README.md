@@ -1,4 +1,2 @@
-- 🔭 I’m currently working on Cloud Application Development
-- 🌱 I’m currently learning ASP.NET
-- 📫 How to reach me: Email
-- ⚡ Fun fact: I'm new here
+
+Cloud Application Development Student and Aspiring Software developer with a Growth Mindset!
